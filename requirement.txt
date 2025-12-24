@@ -1,0 +1,2 @@
+ipykernel
+.\venv\Scripts\pip install ipykernel
