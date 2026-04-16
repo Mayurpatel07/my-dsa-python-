@@ -1,0 +1,80 @@
+app.py
+README.md
+requirement.txt
+1.Python/
+	Control-flow/
+		conditional-statement.ipynb
+		loops.ipynb
+		exmaples/
+			exmaples.ipynb
+	error handling/
+		error1.ipynb
+	file operations/
+		example1.txt
+		file1.ipynb
+		filepath.ipynb
+	functions/
+		Example.ipynb
+		filter_function.ipynb
+		functions.ipynb
+		lambda-function.ipynb
+		map_function.ipynb
+	in-built data-structure/
+		Dictionaries.ipynb
+		lists.ipynb
+		sets.ipynb
+		tuples.ipynb
+		Exmaples/
+			dict.ipynb
+	modules/
+		package/
+			__init__.py
+			math.py
+		test_userDefinePackages/
+			test.py
+	Oops/
+		Abstraction.ipynb
+		class.ipynb
+		Encapsulation.ipynb
+		inheritance.ipynb
+		polymorphism.ipynb
+	python basics/
+		calculator.ipynb
+		variable.ipynb
+	Recursion/
+		Factorial.ipynb
+2.DSA/
+	problems/
+		pattern problems/
+			binary-search.ipynb
+			data-structure.ipynb
+			pattern1.ipynb
+			string.ipynb
+		Searching Algo/
+			BinarySearch.ipynb
+			LinearSearch.ipynb
+		Sorting Algo/
+			bubble-sort.ipynb
+			insertion-sort.ipynb
+			selection-sort.ipynb
+	Searching Algo/
+		BinarySearch.ipynb
+		LinearSearch.ipynb
+	Sorting Algo/
+		bubble-sort.ipynb
+		insertion-sort.ipynb
+		selection-sort.ipynb
+DSA+Patterns/
+	Binary Search/
+		Classis Binary Search.ipynb
+		Lowe/
+			BS-on-Ans.ipynb
+			Upper Bound.ipynb
+	Sliding Window/
+		array.ipynb
+	Stacks/
+		Expression evalution.ipynb
+		monotomic.ipynb
+		Simulation operation.ipynb
+	Two Pointer/
+		Array.ipynb
