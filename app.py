@@ -133,3 +133,6 @@ print(1+1)
 
 # Update: 2026-05-02 18:54:00 - feat(python): create tuples notebook
 
+
+# Update: 2026-05-08 11:30:00 - feat(python): add magic methods examples
+
