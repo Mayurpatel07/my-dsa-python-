@@ -16,3 +16,6 @@ print(addition(3,4))
 
 # Update: 2026-05-07 10:04:00 - feat(python): implement property decorators
 
+
+# Update: 2026-05-12 18:57:00 - feat(python): create custom exceptions
+
