@@ -19,3 +19,6 @@ print(addition(3,4))
 
 # Update: 2026-05-12 18:57:00 - feat(python): create custom exceptions
 
+
+# Update: 2026-05-19 09:48:00 - feat(python): add break and continue examples
+
