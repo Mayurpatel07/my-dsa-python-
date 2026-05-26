@@ -136,3 +136,6 @@ print(1+1)
 
 # Update: 2026-05-08 11:30:00 - feat(python): add magic methods examples
 
+
+# Update: 2026-05-26 10:15:00 - feat(python): add recursion examples
+
