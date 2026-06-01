@@ -142,3 +142,6 @@ print(1+1)
 
 # Update: 2026-05-26 18:16:00 - feat(python): add sets notebook
 
+
+# Update: 2026-06-01 16:46:00 - feat(python): add error handling notebook
+
