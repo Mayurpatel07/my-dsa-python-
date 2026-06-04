@@ -25,3 +25,6 @@ print(addition(3,4))
 
 # Update: 2026-05-26 10:46:00 - feat(python): add dataclass examples
 
+
+# Update: 2026-06-04 09:11:00 - feat(python): add conditional statements notebook
+
