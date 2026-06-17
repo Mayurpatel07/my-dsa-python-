@@ -28,3 +28,6 @@ print(addition(3,4))
 
 # Update: 2026-06-04 09:11:00 - feat(python): add conditional statements notebook
 
+
+# Update: 2026-06-17 09:53:00 - feat(python): implement basic arithmetic operations
+
