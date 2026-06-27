@@ -17,3 +17,6 @@ def addition(a,b):
 
 # Update: 2026-05-26 14:23:00 - feat(dsa): add KMP algorithm
 
+
+# Update: 2026-06-27 11:12:00 - docs: update README with setup instructions
+
