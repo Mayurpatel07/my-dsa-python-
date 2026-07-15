@@ -1,0 +1,62 @@
+ipykernel
+.\venv\Scripts\pip install ipykernel
+numpy
+# 2026-01-05 11:06:00 - feat(dsa): implement binary search on answer
+
+
+# 2026-01-14 09:30:00 - feat(python): add lists notebook
+
+
+# 2026-01-20 09:30:00 - feat(dsa): add lower bound examples
+
+
+# 2026-01-22 15:45:00 - feat(dsa): create binary search examples
+
+
+# 2026-01-27 15:45:00 - feat(python): implement JSON file handling
+
+
+# 2026-02-02 15:45:00 - feat(python): add CSV file operations
+
+
+# 2026-02-10 16:28:00 - feat(python): create custom exceptions
+
+
+# 2026-02-23 15:19:00 - feat(python): add recursion examples
+
+
+# 2026-02-24 15:45:00 - feat(python): implement basic arithmetic operations
+
+
+# 2026-03-09 10:03:00 - refactor: optimize algorithms
+
+
+# 2026-01-05 17:55:00 - docs: update README with setup instructions
+
+
+# 2026-04-16 17:02:00 - feat(python): add finally block examples
+
+
+# 2026-04-23 17:05:00 - feat(dsa): add anagram detection
+
+
+# 2026-05-17 09:06:00 - feat(dsa): add container with most water
+
+
+# 2026-01-10 09:10:00 - docs: update requirements.txt
+
+
+# 2026-01-13 17:32:00 - feat(python): create tuples notebook
+
+
+# 2026-01-30 16:32:00 - test: add test cases for searching
+
+
+# 2026-02-03 12:28:00 - feat(dsa): add container with most water
+
+
+# 2026-02-12 13:06:00 - feat(python): implement abstraction
+
+
+# 2026-02-13 14:16:00 - test: add test cases for searching
+
